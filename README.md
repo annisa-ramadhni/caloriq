@@ -140,6 +140,8 @@ Interactive Prototype
 
 ## 👩‍💻 Author
 
+---
+
 **Annisa Ramadhani**
 
 Data Science Student  
