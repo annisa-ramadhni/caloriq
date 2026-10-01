@@ -18,13 +18,13 @@
 
 ## 📌 Project Overview
 
-**KALORIQ** is a UI/UX design concept for a smart health and calorie monitoring application designed to help users manage calorie intake, nutrition, physical activity, and healthy lifestyle habits through an integrated digital platform.
+**KALORIQ** is a UI/UX design project that presents a smart health and calorie monitoring application designed to support users in managing their calorie intake, nutrition, physical activity, and healthy lifestyle habits through an integrated digital platform.
 
-The project was developed based on the idea that maintaining a healthy lifestyle involves more than simply counting calories. Users also need accessible nutritional information, personalized recommendations, activity tracking, meal planning, progress monitoring, and motivation to maintain healthy habits.
+The concept was developed from the understanding that maintaining a healthy lifestyle involves more than simply calculating calories. Users also need accessible nutritional information, personalized recommendations, meal planning, activity monitoring, progress tracking, and motivation to maintain healthy habits consistently.
 
-KALORIQ brings these needs together into one application through a combination of health monitoring, nutrition management, activity tracking, personalized recommendations, consultation, and gamification features.
+KALORIQ brings these needs together through an integrated application experience that combines nutrition monitoring, calorie management, physical activity, personalized recommendations, consultation, challenges, and reward-based features.
 
-This project focuses on the **User Experience (UX) research and User Interface (UI) design process**, starting from identifying user needs and pain points to developing an interactive application prototype.
+This project focuses on the **User Experience (UX) research and User Interface (UI) design process**, beginning with user research and identification of user needs, followed by persona development, storyboard creation, contextual modeling, UX goal definition, interface design, and interactive prototyping.
 
 ---
 
@@ -34,73 +34,84 @@ The main objectives of KALORIQ are to:
 
 - Help users monitor their daily calorie and nutritional intake.
 - Support users in developing and maintaining healthier lifestyle habits.
+- Provide accessible nutrition and health-related information.
 - Provide personalized food and nutrition recommendations.
-- Help users monitor physical activity and daily progress.
-- Support meal planning and dietary management.
-- Make health and nutrition information easier to understand and access.
-- Increase user motivation through challenges and reward mechanisms.
-- Provide an integrated platform for managing different aspects of a healthy lifestyle.
+- Help users plan their meals according to their needs.
+- Support physical activity monitoring.
+- Help users monitor their progress.
+- Provide convenient access to dietary and nutrition-related consultation.
+- Increase user motivation through challenges, points, vouchers, and rewards.
+- Integrate multiple healthy-lifestyle management functions into one application.
 
 ---
 
 ## 🔎 UX Research
 
-The design process began with user research to understand the needs, habits, difficulties, and expectations of potential users.
+The design process began with UX research to understand the needs, habits, difficulties, and expectations of potential users.
 
 ### Research Method
 
 A **quantitative research approach** was conducted using an online questionnaire.
 
-The questionnaire collected responses from **48 respondents** who represented potential users of a digital health and lifestyle application.
+The questionnaire collected responses from **48 respondents** representing potential users of a digital health and lifestyle application.
 
-The target users were smartphone and internet users with an interest in health, nutrition, physical activity, or maintaining a healthier lifestyle.
+The research targeted smartphone and internet users who have an interest in health, nutrition, physical activity, or maintaining a healthier lifestyle.
 
 ### Usability Aspects
 
 The research considered several usability dimensions:
 
 - **Effectiveness** — whether users can accomplish their intended goals.
-- **Efficiency** — how easily and efficiently users can complete tasks.
+- **Efficiency** — how easily users can complete tasks.
 - **Safety** — whether the application provides a comfortable and reliable experience.
-- **Utility** — whether the available features provide meaningful value.
+- **Utility** — whether the features provide meaningful value to users.
 - **Learnability** — how easily new users can understand the application.
 - **Memorability** — how easily users can remember how to use the application.
 - **Satisfaction** — how satisfied users are with the overall experience.
 
-The research findings were used as a foundation for identifying user needs and defining the direction of the KALORIQ design.
+The research findings were used as a foundation for identifying user needs, understanding pain points, and defining the direction of the KALORIQ design.
 
 ---
 
-## 👤 User Needs & Pain Points
+## 👤 User Needs
 
-The UX analysis identified several user needs and pain points related to maintaining a healthy lifestyle.
-
-### User Needs
+The UX research and analysis identified several needs that the application should address.
 
 Users need:
 
-- Easy access to calorie and nutrition information.
+- Easy access to calorie information.
+- Easy access to nutritional information.
 - A convenient way to monitor daily food consumption.
-- Personalized food and nutrition recommendations.
-- Practical meal planning.
+- Personalized food recommendations.
+- Meal planning support.
 - Physical activity monitoring.
 - Progress tracking.
+- Food and nutrition analysis.
 - Accessible dietary guidance.
+- Nutrition-related consultation.
 - Motivation to maintain healthy habits.
+- A more integrated way to manage different aspects of a healthy lifestyle.
 
-### Pain Points
+These needs were translated into the features and design structure of KALORIQ.
 
-Potential challenges identified include:
+---
+
+## ⚠️ User Pain Points
+
+The design process also considered several potential difficulties experienced by users when managing their health and lifestyle.
+
+The identified pain points include:
 
 - Difficulty monitoring daily calorie intake.
 - Difficulty understanding nutritional information.
 - Difficulty choosing food according to individual nutritional needs.
-- Lack of personalized recommendations.
+- Lack of personalized food recommendations.
 - Difficulty maintaining consistent healthy habits.
+- Difficulty planning meals.
 - Limited motivation to continue healthy routines.
-- The need to access multiple health-related tools separately.
+- The need to use different tools or services for different health-related activities.
 
-These needs and pain points became the basis for defining the features and user experience of KALORIQ.
+KALORIQ was designed to address these challenges by bringing related functions together within a single digital platform.
 
 ---
 
@@ -109,20 +120,29 @@ These needs and pain points became the basis for defining the features and user 
 The KALORIQ design process followed a user-centered approach:
 
 ```text
-User Research
-      ↓
+UX Research
+     ↓
 User Needs & Pain Points
-      ↓
+     ↓
 User Persona
-      ↓
+     ↓
 Storyboard
-      ↓
+     ↓
 Contextual Model
-      ↓
+     ↓
 UX Goals
-      ↓
+     ↓
 Information Architecture
-      ↓
+     ↓
 UI Design
-      ↓
+     ↓
 Interactive Prototype
+
+## 👩‍💻 Author
+
+**Annisa Ramadhani**
+
+Data Science Student  
+Universitas Negeri Surabaya
+
+GitHub: [@annisa-ramadhni](https://github.com/annisa-ramadhni)
